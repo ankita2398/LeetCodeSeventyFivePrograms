@@ -1,3 +1,5 @@
+/* https://leetcode.com/problems/can-place-flowers 
+*/
 import java.util.Scanner;
 
 public class CanPlaceFlowers {
