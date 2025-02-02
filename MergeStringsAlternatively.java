@@ -1,3 +1,5 @@
+/* Question Link: https://leetcode.com/problems/merge-strings-alternately
+*/
 import java.util.Scanner;
 
 public class MergeStringsAlternatively {
