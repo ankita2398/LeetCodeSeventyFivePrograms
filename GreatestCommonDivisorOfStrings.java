@@ -1,3 +1,5 @@
+/* Question Link: https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
+*/
 import java.util.Scanner;
 
 public class GreatestCommonDivisorOfStrings {
